@@ -1,0 +1,24 @@
+History files
+.Rhistory
+.Rapp.history
+
+Session Data files
+.RData
+
+User-specific files
+.Ruserdata
+
+RStudio files
+.Rproj.user/
+
+R Markdown files
+*.nb.html
+*.html
+*.pdf
+
+knitr and R markdown temporary files
+*_cache/
+/cache/
+
+R package files
+*.Rbuildignore
